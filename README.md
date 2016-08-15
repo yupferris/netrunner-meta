@@ -28,7 +28,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] The Source
  - [ ] Order and Chaos
  - [ ] SanSan
-   - [ ] The Valley
+   - [x] The Valley
    - [ ] Breaker Bay
    - [ ] Chrome City
    - [ ] The Underway
