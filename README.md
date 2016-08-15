@@ -4,7 +4,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
 # Sets/packs
  - [x] Core Set
  - [ ] Genesis
-   - [x] What Lies Ahead
+   - [ ] What Lies Ahead
    - [ ] Trace Amount
    - [ ] Cyber Exodus
    - [x] A Study in Static
