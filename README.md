@@ -31,7 +31,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [x] The Valley
    - [ ] Breaker Bay
    - [ ] Chrome City
-   - [ ] The Underway
+   - [x] The Underway
    - [ ] Old Hollywood
    - [ ] The Universe of Tomorrow
  - [ ] Data and Destiny
