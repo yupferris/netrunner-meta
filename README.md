@@ -2,18 +2,18 @@
 Some supplementary info for my netrunner collection that isn't covered by netrunnerdb
 
 # Sets/packs
- - [ ] Core Set
+ - [x] Core Set
  - [ ] Genesis
-   - [ ] What Lies Ahead
+   - [x] What Lies Ahead
    - [ ] Trace Amount
    - [ ] Cyber Exodus
-   - [ ] A Study in Static
-   - [ ] Humanity's Shadow
+   - [x] A Study in Static
+   - [x] Humanity's Shadow
    - [ ] Future Proof
- - [ ] Creation and Control
+ - [x] Creation and Control
  - [ ] Spin
    - [ ] Opening Moves
-   - [ ] Second Thoughts
+   - [x] Second Thoughts
    - [ ] Mala Tempora
    - [ ] True Colors
    - [ ] Fear and Loathing
@@ -22,7 +22,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [ ] Lunar
    - [ ] Upstalk
    - [ ] The Spaces Between
-   - [ ] First Contact
+   - [x] First Contact
    - [ ] Up and Over
    - [ ] All That Remains
    - [ ] The Source
@@ -37,13 +37,13 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [ ] Data and Destiny
  - [ ] Mumbad
    - [ ] Kala Ghoda
-   - [ ] Business First
-   - [ ] Democracy and Dogma
+   - [x] Business First
+   - [x] Democracy and Dogma
    - [ ] Salsette Island
-   - [ ] The Liberated Mind
+   - [x] The Liberated Mind
    - [ ] Fear the Masses
  - [ ] Flashpoint
-   - [ ] 23 Seconds
+   - [x] 23 Seconds
    - [ ] Blood Money
    - [ ] Escalation
 
