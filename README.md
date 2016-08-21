@@ -5,7 +5,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [x] Core Set
  - [ ] Genesis
    - [ ] What Lies Ahead
-   - [ ] Trace Amount
+   - [x] Trace Amount
    - [ ] Cyber Exodus
    - [x] A Study in Static
    - [x] Humanity's Shadow
@@ -24,7 +24,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] The Spaces Between
    - [x] First Contact
    - [ ] Up and Over
-   - [ ] All That Remains
+   - [x] All That Remains
    - [ ] The Source
  - [ ] Order and Chaos
  - [ ] SanSan
@@ -32,7 +32,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] Breaker Bay
    - [ ] Chrome City
    - [x] The Underway
-   - [ ] Old Hollywood
+   - [x] Old Hollywood
    - [ ] The Universe of Tomorrow
  - [ ] Data and Destiny
  - [ ] Mumbad
@@ -44,6 +44,6 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] Fear the Masses
  - [ ] Flashpoint
    - [x] 23 Seconds
-   - [ ] Blood Money
+   - [x] Blood Money
    - [ ] Escalation
 
