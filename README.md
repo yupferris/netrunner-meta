@@ -6,7 +6,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [ ] Genesis
    - [ ] What Lies Ahead *** (Ash, whizzard, plascrete, zu key master)
    - [x] Trace Amount
-   - [ ] Cyber Exodus
+   - [ ] Cyber Exodus *** (test run, chaos theory)
    - [x] A Study in Static
    - [x] Humanity's Shadow
    - [ ] Future Proof *** (eli, dlr, indexing, r&d interface)
