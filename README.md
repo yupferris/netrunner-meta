@@ -4,20 +4,20 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
 # Sets/packs
  - [x] Core Set
  - [ ] Genesis
-   - [ ] What Lies Ahead
+   - [ ] What Lies Ahead *** (Ash, whizzard, plascrete, zu key master)
    - [x] Trace Amount
    - [ ] Cyber Exodus
    - [x] A Study in Static
    - [x] Humanity's Shadow
-   - [ ] Future Proof
+   - [ ] Future Proof *** (eli, dlr, indexing, r&d interface)
  - [x] Creation and Control
  - [ ] Spin
-   - [ ] Opening Moves
+   - [ ] Opening Moves *** (Jackson)
    - [x] Second Thoughts
    - [ ] Mala Tempora
    - [ ] True Colors
    - [ ] Fear and Loathing
-   - [ ] Double Time
+   - [x] Double Time
  - [ ] Honor and Profit
  - [ ] Lunar
    - [x] Upstalk
