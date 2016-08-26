@@ -20,7 +20,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] Double Time
  - [ ] Honor and Profit
  - [ ] Lunar
-   - [ ] Upstalk
+   - [x] Upstalk
    - [ ] The Spaces Between
    - [x] First Contact
    - [ ] Up and Over
@@ -36,10 +36,10 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] The Universe of Tomorrow
  - [ ] Data and Destiny
  - [ ] Mumbad
-   - [ ] Kala Ghoda
+   - [x] Kala Ghoda
    - [x] Business First
    - [x] Democracy and Dogma
-   - [ ] Salsette Island
+   - [x] Salsette Island
    - [x] The Liberated Mind
    - [ ] Fear the Masses
  - [ ] Flashpoint
