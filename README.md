@@ -15,7 +15,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] Opening Moves *** (Jackson)
    - [x] Second Thoughts
    - [ ] Mala Tempora
-   - [ ] True Colors
+   - [x] True Colors
    - [ ] Fear and Loathing
    - [x] Double Time
  - [ ] Honor and Profit
