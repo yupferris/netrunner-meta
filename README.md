@@ -21,9 +21,9 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [ ] Honor and Profit
  - [ ] Lunar
    - [x] Upstalk
-   - [ ] The Spaces Between
+   - [x] The Spaces Between
    - [x] First Contact
-   - [ ] Up and Over
+   - [x] Up and Over
    - [x] All That Remains
    - [ ] The Source
  - [ ] Order and Chaos
