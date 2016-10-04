@@ -12,7 +12,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [ ] Future Proof *** (eli, dlr, indexing, r&d interface)
  - [x] Creation and Control
  - [ ] Spin
-   - [ ] Opening Moves *** (Jackson)
+   - [ ] Opening Moves *** (Jackson, lockpick)
    - [x] Second Thoughts
    - [ ] Mala Tempora
    - [x] True Colors
