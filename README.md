@@ -46,4 +46,5 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [x] 23 Seconds
    - [x] Blood Money
    - [ ] Escalation
-
+   - [ ] Intervention
+   - [x] Martial Law
