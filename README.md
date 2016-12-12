@@ -11,37 +11,37 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [x] Humanity's Shadow
    - [x] Future Proof *** (eli, dlr, indexing, r&d interface)
  - [x] Creation and Control
- - [ ] Spin
+ - [x] Spin
    - [x] Opening Moves *** (Jackson, lockpick)
    - [x] Second Thoughts
-   - [ ] Mala Tempora
+   - [x] Mala Tempora
    - [x] True Colors
-   - [ ] Fear and Loathing
+   - [x] Fear and Loathing
    - [x] Double Time
  - [ ] Honor and Profit
- - [ ] Lunar
+ - [x] Lunar
    - [x] Upstalk
    - [x] The Spaces Between
    - [x] First Contact
    - [x] Up and Over
    - [x] All That Remains
-   - [ ] The Source
+   - [x] The Source
  - [ ] Order and Chaos
- - [ ] SanSan
+ - [x] SanSan
    - [x] The Valley
    - [x] Breaker Bay *** (breaker bay grid, hayley)
-   - [ ] Chrome City
+   - [x] Chrome City
    - [x] The Underway
    - [x] Old Hollywood
    - [x] The Universe of Tomorrow
  - [ ] Data and Destiny
- - [ ] Mumbad
+ - [x] Mumbad
    - [x] Kala Ghoda
    - [x] Business First
    - [x] Democracy and Dogma
    - [x] Salsette Island
    - [x] The Liberated Mind
-   - [ ] Fear the Masses
+   - [x] Fear the Masses
  - [ ] Flashpoint
    - [x] 23 Seconds
    - [x] Blood Money
