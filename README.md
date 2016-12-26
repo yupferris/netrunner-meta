@@ -2,7 +2,7 @@
 Some supplementary info for my netrunner collection that isn't covered by netrunnerdb
 
 # Sets/packs
- - [x] Core Set
+ - [x] Core Set (2x)
  - [x] Genesis
    - [x] What Lies Ahead *** (Ash, whizzard, plascrete, zu key master)
    - [x] Trace Amount
@@ -26,7 +26,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [x] Up and Over
    - [x] All That Remains
    - [x] The Source
- - [ ] Order and Chaos
+ - [x] Order and Chaos
  - [x] SanSan
    - [x] The Valley
    - [x] Breaker Bay *** (breaker bay grid, hayley)
