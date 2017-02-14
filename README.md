@@ -45,6 +45,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [ ] Flashpoint
    - [x] 23 Seconds
    - [x] Blood Money
-   - [ ] Escalation
-   - [ ] Intervention
+   - [x] Escalation
+   - [x] Intervention
    - [x] Martial Law
+   - [ ] Quorum
