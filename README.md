@@ -4,15 +4,15 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
 # Sets/packs
  - [x] Core Set (2x)
  - [x] Genesis
-   - [x] What Lies Ahead *** (Ash, whizzard, plascrete, zu key master)
+   - [x] What Lies Ahead
    - [x] Trace Amount
-   - [x] Cyber Exodus *** (test run, chaos theory)
+   - [x] Cyber Exodus
    - [x] A Study in Static
    - [x] Humanity's Shadow
-   - [x] Future Proof *** (eli, dlr, indexing, r&d interface)
+   - [x] Future Proof
  - [x] Creation and Control
  - [x] Spin
-   - [x] Opening Moves *** (Jackson, lockpick)
+   - [x] Opening Moves
    - [x] Second Thoughts
    - [x] Mala Tempora
    - [x] True Colors
@@ -29,7 +29,7 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
  - [x] Order and Chaos
  - [x] SanSan
    - [x] The Valley
-   - [x] Breaker Bay *** (breaker bay grid, hayley)
+   - [x] Breaker Bay
    - [x] Chrome City
    - [x] The Underway
    - [x] Old Hollywood
