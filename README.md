@@ -42,10 +42,10 @@ Some supplementary info for my netrunner collection that isn't covered by netrun
    - [x] Salsette Island
    - [x] The Liberated Mind
    - [x] Fear the Masses
- - [ ] Flashpoint
+ - [x] Flashpoint
    - [x] 23 Seconds
    - [x] Blood Money
    - [x] Escalation
    - [x] Intervention
    - [x] Martial Law
-   - [ ] Quorum
+   - [x] Quorum
